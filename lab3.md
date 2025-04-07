@@ -45,11 +45,24 @@ su bassem
 ### 13. Try to access (by cd command) the folder (myteam)
 ![Screenshot (105)](https://github.com/user-attachments/assets/56faf53e-9e24-4ef7-815b-cc6f1f032782)
 
-### 
+### 15. Starting from your home directory, find all files that were modified in the last two day.
+![Screenshot (106)](https://github.com/user-attachments/assets/2852b87e-21b7-4f1b-8b21-545bf9b6c8b2)
 
+### 16. Starting from /etc, find files owned by root user.
+![Screenshot (107)](https://github.com/user-attachments/assets/d9c82832-cacb-481a-bd6d-c311cb0ef9b5)
 
+### 17. Find all directories in your home directory.
+![Screenshot (108)](https://github.com/user-attachments/assets/c4e8a69a-f239-4ef5-8a03-24e68d16aebe)
 
+### 18. Write a command to search for all files on the system that, its name is ".profile".
 
+### 19. Identify the file types of the following: /etc/passwd, /dev/pts/0, /etc, /dev/sda
+![Screenshot (109)](https://github.com/user-attachments/assets/6a8805f9-5ac5-4c00-a67b-ca8da5367193)
+
+### 20. List the inode numbers of /, /etc, /etc/hosts.
+![Screenshot (110)](https://github.com/user-attachments/assets/88046fba-b30f-40ee-8a49-51da4902017a)
+
+### 21. Copy /etc/passwd to your home directory, use the commands diff and cmp, and Edit in the file you copied, and then use these commands again, and check the output.
 
 
 
