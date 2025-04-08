@@ -45,6 +45,13 @@ su bassem
 ### 13. Try to access (by cd command) the folder (myteam)
 ![Screenshot (105)](https://github.com/user-attachments/assets/56faf53e-9e24-4ef7-815b-cc6f1f032782)
 
+### 14. Using the command Line
+     Change the permissions of oldpasswd file to give owner read and write permissions and for group write and execute and execute only for the others (using chmod in 2 different ways)
+     Change your default permissions to be as above.
+     What is the maximum permission a file can have, by default when it is just created? And what is that for directory.
+     Change your default permissions to be no permission to everyone then create a directory and a file to verify
+
+
 ### 15. Starting from your home directory, find all files that were modified in the last two day.
 ![Screenshot (106)](https://github.com/user-attachments/assets/2852b87e-21b7-4f1b-8b21-545bf9b6c8b2)
 
@@ -63,6 +70,8 @@ su bassem
 ![Screenshot (110)](https://github.com/user-attachments/assets/88046fba-b30f-40ee-8a49-51da4902017a)
 
 ### 21. Copy /etc/passwd to your home directory, use the commands diff and cmp, and Edit in the file you copied, and then use these commands again, and check the output.
+![Screenshot (111)](https://github.com/user-attachments/assets/1229975d-24ea-4e40-9c5f-acdb2f158b71)
 
-
+### 22. Create a symbolic link of /etc/passwd in /boot.
+![Screenshot (112)](https://github.com/user-attachments/assets/6b86ac06-0ae2-4efd-bf4f-bb3fa362e73b)
 
